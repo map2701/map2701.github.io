@@ -1,0 +1,63 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Akamae Tech Consultoria em TI</title>
+    <meta name="keywords" content="Desenvolvimento de Software, DBA SQL Server" />
+    <meta name="description" content="Desenvolvimento de Software com .Net, Java, PHP com  SQL Server ou Oracle" />
+    <link href="default.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="fonts.css" rel="stylesheet" type="text/css" media="all" />
+    <!--[if IE 6]>
+    <link href="default_ie6.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+</head>
+<body>
+    <div id="wrapper">
+        <div id="header-wrapper" >
+            <link rel="import" href="/includes/header.html" />
+
+            <!--#include virtual="/includes/header.html"-->
+        </div>
+        <div id="page" class="container">
+            <div id="contentPage">
+                
+                    <div class="title">
+                        <h2>Desenvolvimento de Sistemas</h2>
+                        <span class="byline">Em .Net, Java, PHP, VBA, VB6 para Web, Desktop e Android </span> <br />
+                        <span class="byline">Sistemas para Web, Desktop e Android </span> <br />
+                    </div>
+                    <span class="image image-full"><img src="images/banner-909710__180.jpg" alt="Akamae Tech Desenvolvimento de Sistemas" /></span>
+                    <p>
+                        Nossa equipe esta pronta para encontrar a melhor solução para sua empresa, possuimos uma equipe com qualidade e grande experiência, experiência essa conquistada durante anos de atuação em grandes consultorias de TI. Veja Abaixo algumas empresas onde nossos profissionais atuaram:
+
+                        <ul>
+                            <li>Zurich</li>
+                            <li>Votorantim</li>
+                            <li>Gusmão e Labrunie</li>
+                            <li>Almeida Santos</li>
+                            <li>VW</li>
+                            <li>Brás e Figureiredo</li>
+                            <li>Resource IT</li>
+                            <li>Federação de Atletismo de São Paulo</li>
+                            <li>ClearSale</li>
+                            <li>Claro</li>
+                            <li>Cetelem</li>
+
+                        </ul>
+
+
+                        Nossa empresa é parceira Microsoft mais um atestado da nossa qualidade e comprometimento com nossos clientes.
+                        <br />
+                        <img src="images/PartnerMicrosoft.png" title="Akamae Tech - Partner Microsoft" />
+
+
+                    </p>
+                
+
+
+        </div>
+    </div>
+    <!--#include virtual="/includes/footer.html"-->
+</body>
+</html>

@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>Akamae Tech Consultoria em TI</title>
+    <meta name="keywords" content="Desenvolvimento de Software, DBA SQL Server" />
+    <meta name="description" content="Desenvolvimento de Software com .Net, Java, PHP com  SQL Server ou Oracle" />
+    <link href="default.css" rel="stylesheet" type="text/css" media="all" />
+    <link href="fonts.css" rel="stylesheet" type="text/css" media="all" />
+    <!--[if IE 6]>
+    <link href="default_ie6.css" rel="stylesheet" type="text/css" />
+    <![endif]-->
+</head>
+<body>
+    <div id="wrapper">
+        <div id="header-wrapper" >
+            <link rel="import" href="/includes/header.html" />
+
+            <!--#include virtual="/includes/header.html"-->
+        </div>
+        <div id="page" class="container">
+            <div id="contentPage">
+                <h1>Sobre Akamae Tech </h1>
+                <p>
+                    A Akamae Tech for criada por consultores com anos de experiência em grandes consultorias, profissionais com certificações Microsoft e em Metodologia Ágil.
+
+                    Nosso objetivo é unir a qualidade das grandes consultorias com a Agilidade das pequenas empresas, trazendo agilidade e qualidade para atender empresas de pequeno e médio porte.
+
+                    <img src="images/sbw_aboutus_default.png" alt="Akamae Tech" />
+                </p>
+
+
+        </div>
+    </div>
+    <!--#include virtual="/includes/footer.html"-->
+</body>
+</html>
