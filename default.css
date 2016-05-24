@@ -6,7 +6,7 @@ body {
 	margin: 0px;
 	padding: 0px;
 	background: #FFFFFF url(images/bg01.png) repeat;
-	font-family: 'Source Sans Pro', sans-serif;
+	font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
 	font-size: 12pt;
 	font-weight: 300;
 	color: #363636;
@@ -164,7 +164,7 @@ hr {
 		letter-spacing: 0.20em;
 		font-weight: 700;
 		font-size: 2em;
-		color: #171717;
+		color: #000000;
 	}
 	
 	.title .byline
@@ -173,18 +173,27 @@ hr {
 		text-transform: uppercase;
 		font-weight: 400;
 		font-size: 0.90em;
-		color: #6F6F6F;
+		color: #000;
 	}
+     .byline
+     {
+         color: #004066;
+         font-weight:bold;
 
+     }
+    
 /** WRAPPER */
 
 #wrapper {
-	background: #FFFFFF url(images/bg01.png) repeat;
+	background: #FFFFFF;
+    border-top-style:solid  !important;
+    border-top:2px  !important;
+    border-top-color: #F58634 !important;
 }
 
 #footer-wrapper
 {
-	background: #0F0F0F;
+	background: #004066;
 }
 
 .container {
@@ -203,47 +212,21 @@ hr {
 
 	#header-wrapper
 	{
-		padding-bottom: 3em;
-		background: #E8E8E8 url(images/bg01.png) repeat;
-	box-shadow: inset 0 -10px 10px -10px rgba(0,0,0,.1);
+		
+		background: #004066;
+        border-bottom: solid 6px #F58634;
+        border-top: solid 4px #F58634;
+        
+	
 	}
 
-	#header 
-	{
-		position: relative;
-		overflow: hidden;
-		text-align: center;
-	}
+	
 
 /*********************************************************************************/
 /* Logo                                                                          */
 /*********************************************************************************/
 
-	#logo 
-	{
-		width: 500px;
-		height: 100px;
-		margin: 0 auto;
-		text-transform: uppercase;
-	}
 	
-	#logo h1
-	{
-		letter-spacing: 0.10em;
-		font-size: 3em;
-	}
-	
-	#logo p 
-	{
-		letter-spacing: 0.10em;
-		color: #292A28;
-	}
-	
-	#logo a 
-	{
-		text-decoration: none;
-		color: #292A28;
-	}
 
 /*********************************************************************************/
 /* Banner                                                                        */
@@ -267,10 +250,11 @@ hr {
 
 #menu {
 	overflow: hidden;
-	margin-bottom: 2em;
-	background: #25292B;
-	box-shadow: 0px 0px 10px rgba(0,0,0,0.2);
-	height: 115px;
+	margin-bottom: 0px;
+	background-color: #004066;
+	
+	height: 60px;
+   
 }
 
 #menu ul {
@@ -288,8 +272,8 @@ hr {
 #menu a {
 	display: block;
 	letter-spacing: 1px;
-	line-height: 115px;
-	padding: 0 40px;
+	line-height: 60px;
+	padding: 0 30px;
 	text-decoration: none;
 	text-align: center;
 	text-transform: uppercase;
@@ -304,7 +288,7 @@ hr {
 }
 
 #menu .current_page_item a {
-	background: #FFC31F;
+	background: #F58634;
 }
 
 /** PAGE */
@@ -313,7 +297,7 @@ hr {
 {
 	position: relative;
 	overflow: hidden;
-	padding: 6em 0em 5em 0em;
+	padding: 2em 0em 2em 0em;
 }
 
 /** CONTENT */
@@ -441,7 +425,7 @@ hr {
 
 	#portfolio-wrapper
 	{
-		background: #272925;
+		background: #004066;
 		padding: 6em 0em;
 	}
 	
@@ -449,7 +433,7 @@ hr {
 	{
 		overflow: hidden;
 		text-align: center;
-		color: #8E8E8E;
+		color: #FFF;
 	}
 	
 	#portfolio .title h2
@@ -461,7 +445,7 @@ hr {
 	#portfolio .byline
 	{
 		font-size: 1em;
-		color: #EEA7C1;
+		color: #F58634;
 	}
 	
 	.colunaPortifolio
@@ -512,7 +496,7 @@ hr {
 		.button:before
 		{
 			display: inline-block;
-			background: #FFC31F;
+			background: #F58634;
 			margin-right: 1em;
 			width: 40px;
 			height: 40px;
