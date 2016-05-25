@@ -17,36 +17,7 @@
         <div id="header-wrapper">
             <link rel="import" href="/includes/header.html" />
 
-            ﻿<div style="background-color:#FFF;display:table;width:100%">
- <div style="width:74%;display:table-cell;padding-left:30px">
-
- 
-        <img src="images/LogoAkamae2016.png" title="Akamae Tech" />
-
-    </div>
-     
-
-    <div style="width:200px;text-align:right;display:table-cell;vertical-align:middle;padding-right:10px; ">
-        <div class="byline">Telefone: (11) 3042-1094 | (11) 3042-1097 </div>
-        <div class="byline">Email: comercial@akamaetech.com </div>
-    </div>    
-    
-
-</div>
-<div id="menu" class="container" >
-    <ul>
-        <li class="current_page_item"><a href="index.html">Homepage</a></li>
-        <li><a href="sobreAkamaeTech.html">Sobre a Akamae</a></li>
-        <li><a href="http://blog.akamaetech.com" target="_blank">Blog</a></li>
-        <li><a href="clientes-projetos.html">Clientes e Projetos</a></li>
-        <li><a href="contato.html">Contato</a></li>
-    </ul>
-</div>
-
-
-
-<!-- end #menu -->
-
+            <!--#include virtual="/includes/header.html"-->
         </div>
         <div id="page" class="container">
             <div id="contentPage">
@@ -100,43 +71,6 @@
 
     </div>
     </div>
-    ﻿
-    <div id="portfolio-wrapper">
-        <div id="portfolio" class="container">
-            <div id="column1" class="colunaPortifolio">
-                <div class="title" >
-                    <h2><a href="dba-remoto-sql-server.html" class="icon icon-arrow-right button"> DBA Remoto</a></h2>
-                </div>
-                <p>A <a href="http://www.prologos.com.br" target="_blank" title="ProLogos">ProLogos</a> empresa de TI com Sistemas de ERP utlizando Banco de Dados SQL Server. </p>
-                <p> Com a Ajuda da Akamae Tech esta melhorando a velocidade de seus sistemas, trazendo um melhor retorno para seus clientes.</p>
-                
-            </div>
-            <div id="column2" class="colunaPortifolio">
-                <div class="title">
-                    <h2><a href="#" class="icon icon-arrow-right button"> Sistemas </a></h2>
-                </div>
-                <p> A <a href="http://www.almeidasantos.net" target="_blank" title="Almeida Santos">Almeida Santos</a> revolucionou sua empresa com o desenvolvimento de Sistema Customizado, um projeto de 7 anos que agora esta se transformando no produto  <a href="http://www.legitimvs.com.br" title="LEGITIMVS">LEGITIMVS</a> que poderá ajudar outras empresas.</p>
-            </div>
-            <div id="column3" class="colunaPortifolio">
-                <div class="title">
-                    <h2><a href="#" class="icon icon-arrow-right button"> Produtos </a></h2>
-                </div>
-                <p>Para pequenos escritórios de Advocacia a Akamae criou o  <a href="http://www.judiciale.com.br" target="_blank" title="Judiciale">Judiciale</a>, um sistema online hospedado no <a href="https://azure.microsoft.com/pt-br/" target="_blank" title="Azure o Data Center da Microsoft">Azure o Data Center da Microsoft</a>.</p>
-                
-            </div>
-            
-        </div>
-    </div>
-    <div id="copyright" class="container">
-        <p>&copy; Akamae Tech. All rights reserved. | Photos by <a href="http://fotogrph.com/">Fotogrph</a> | Design by <a href="http://templated.co" rel="nofollow">TEMPLATED</a>.</p>
-        <ul class="contact" style="display:none">
-            <li><a href="#" class="icon icon-twitter"><span>Twitter</span></a></li>
-            <li><a href="#" class="icon icon-facebook"><span></span></a></li>
-            <li><a href="#" class="icon icon-dribbble"><span>Pinterest</span></a></li>
-            <li><a href="#" class="icon icon-tumblr"><span>Google+</span></a></li>
-            <li><a href="#" class="icon icon-rss"><span>Pinterest</span></a></li>
-        </ul>
-    </div>
-
+    <!--#include virtual="/includes/footer.html"-->
 </body>
 </html>
