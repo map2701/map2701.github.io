@@ -25,51 +25,91 @@
                 <div class="title">
                     <h1>DBA Remoto SQL Server</h1>
                 </div>
-                    
-                <ul style="list-style-type: decimal-leading-zero;">
-                    <li>Problemas com sistemas lentos ? </li>
-                    <li>Precisa esperar minutos ou horas para extrair relatórios?</li>
-                    <li>Equipe de desenvolvimento precisa de ajuda com SQL Server?</li>
-                    <li>Investiu muito dinheiro em Hardware e servido SQL Server continua lento?</li>
-                    <li>Precisa de consultoria especializada para algum projeto novo?</li>
 
-                </ul>
-                  
+                <div style="display:table">
+
+                    <div style="display:table-cell;width:60%;vertical-align:top">
+
+                        <ul style="list-style-type: decimal-leading-zero;">
+                            <li>Problemas com sistemas lentos ? </li>
+                            <li>Precisa esperar minutos ou horas para extrair relatórios?</li>
+                            <li>Equipe de desenvolvimento precisa de ajuda com SQL Server?</li>
+                            <li>Investiu muito dinheiro em Hardware e servido SQL Server continua lento?</li>
+                            <li>Precisa de consultoria especializada para algum projeto novo?</li>
+
+                        </ul>
+                    </div>
+
+
+                    <div style="display:table-cell;width:40%;padding-left:100px">
+                        Veja nosso perfil no Site Oficial de Parceiros Microsoft
+                        <a href="https://pinpoint.microsoft.com/pt-BR/Companies/4297209875" title="Akamae Tech - Partner Microsoft" target="_blank">  <img src="images/PartnerMicrosoft.png" title="Akamae Tech - Partner Microsoft" /></a>
+
+                    </div>
+                </div>
 
                 <br />
                 <h2>Planos de Suporte Remoto DBA SQL Server <strong>Grandes Retornos</strong> com equipe Certificada </h2>
-                
-                
+
+
                 <p>Hoje muitas empresas colocam seu futuro nas mãos da sorte, porque não podem ter um profissional qualificado e não pensam em soluções alternativas. Assim deixam seus ambientes funcionando sem nenhuma monitoração e trabalhos preventivos, como diz o ditado popular é melhor prevenir do que remediar.</p><p>
                     Com algumas horas por mês já é possível um DBA Remoto dar Suporte ao seu SQL Server e trazer grandes ganhos de performance e segurança para seu ambiente, além de você ter a quem recorrer no caso de problemas imprevistos.<br /> Cuide do seu SQL Server sem gastar muito, porém sem abrir mão da qualidade. Conte com nosso serviço de DBA Remoto SQL Server para garantir o melhor desempenho e segurança do seu ambiente SQL Server.Profissionais DBA SQL certificados com anos de experiência atuando em grandes consultorias de TI.
                 </p>
-                
-                <blockquote style="font-weight:bold">
-                    <p>
-                        Com investimento a partir de <strong>R$ 888,00</strong> mensalmente, você garante a segurança do seu ambiente SQL Server, aumenta a velocidade de seus sistemas e com isso aumenta a produtividade de seus colaboradores. Temos também nosso serviço de SQL Health Check com investimento anual de R$ 4.500,00, a cada 6 meses realizamos a revisão de seu ambiente, revisão índices, estatistas e sugerindo melhorias. 
-                    </p>
-                </blockquote>
-                
-                <h2>Durma tranquilo tendo um DBA Remoto SQL Server</h2><p>Problemas podem ocorrer em qualquer ambiente de banco de dados, porém os resultados são bem diferentes de acordo com os procedimentos adotados. Um ambiente pode ser recuperado em minutos, horas ou dias. Depende do plano de recuperação que você tem na sua empresa, ou seja, depende da qualidade do seu DBA SQL Server.</p><p>Alguns problemas simples podem se transformar em grandes problemas , caso sua empresa não esteja preparada de maneira adequada. Um simples update ou delete com o filtro errado pode destruir informações de dias ou semanas caso seu backup não esteja ok. E mesmo que sua empresa  tenha o backup, o processo de recuperação inadequado pode ocasionar perdas de dados desnecessários e com isso gerar retrabalho ou perdas financeiras.</p><p>
-                    Aprenda as <a href="http://www.microsoftvirtualacademy.com/training-courses/melhores-praticas-para-sql-server" target="_blank">melhores praticas para sql server, recomendadas pela Microsoft</a>
-                </p><h2>Pacotes DBA Remoto</h2><p>Nós trabalhamos com pacotes de 15 a 90 horas mensais de acordo com o tamanho do ambiente e também das necessidades de suporte. Atuamos oferecendo os seguintes serviços no pacote mensal:</p><p>&nbsp;</p><ul><li>Suporte SQL Server</li><li>Criação de monitoramento de performance</li><li>Revisão periódica de índices e estatísticas</li><li>Revisão e otimização de procedures</li><li>Verificação de EventViewer windows e logs SQL Server</li><li>Migração de Ambientes</li><li>Mentoring Equipe</li><li>Documentação Ambiente SQL Server</li></ul>   
-                    
-                
-                <strong> Nossa empresa é parceira Microsoft mais um atestado da nossa qualidade e comprometimento com nossos clientes.</strong>
-                <br />
-             
-                <a href="https://pinpoint.microsoft.com/pt-BR/Companies/4297209875" title="Akamae Tech - Partner Microsoft" target="_blank">  <img src="images/PartnerMicrosoft.png" title="Akamae Tech - Partner Microsoft" /></a> 
+
+
+                <div style="display:table">
+
+                    <div style="display:table-cell;width:50%;vertical-align:top">
+
+                        <blockquote style="font-weight:bold">
+                            <p>
+                                 <ul style="list-style-type: decimal-leading-zero;">
+                            <li>Monitoramento com ferramentas nativas </li>
+                            <li>Utilização de Scripts de grandes Consultores MVP</li>
+                            <li>Analise consultas criticas</li>
+                            
+
+                        </ul>
+                            
+                            </p>
+                            <p>
+                                Com investimento a partir de <strong>R$ 888,00</strong> mensalmente, você garante a segurança do seu ambiente SQL Server, aumenta a velocidade de seus sistemas e com isso aumenta a produtividade de seus colaboradores. Temos também nosso serviço de SQL Health Check com investimento anual de R$ 4.500,00, a cada 6 meses realizamos a revisão de seu ambiente, revisão índices, estatistas e sugerindo melhorias.
+
+
+                            </p>
+                           
+                        </blockquote>
+                    </div>
+
+                    <div style="display:table-cell;width:50%;vertical-align:top">
+                        <p>
+                            <img src="images/DBA-Remoto-SQL-Server.png" title="DBA-Remoto-SQL-Server" />
+                        </p>
+                    </div>
+                </div>
+
+                      
+
+
+
+
+                        <h2>Durma tranquilo tendo um DBA Remoto SQL Server</h2><p>Problemas podem ocorrer em qualquer ambiente de banco de dados, porém os resultados são bem diferentes de acordo com os procedimentos adotados. Um ambiente pode ser recuperado em minutos, horas ou dias. Depende do plano de recuperação que você tem na sua empresa, ou seja, depende da qualidade do seu DBA SQL Server.</p><p>Alguns problemas simples podem se transformar em grandes problemas , caso sua empresa não esteja preparada de maneira adequada. Um simples update ou delete com o filtro errado pode destruir informações de dias ou semanas caso seu backup não esteja ok. E mesmo que sua empresa  tenha o backup, o processo de recuperação inadequado pode ocasionar perdas de dados desnecessários e com isso gerar retrabalho ou perdas financeiras.</p><p>
+                            Aprenda as <a href="http://www.microsoftvirtualacademy.com/training-courses/melhores-praticas-para-sql-server" target="_blank">melhores praticas para sql server, recomendadas pela Microsoft</a>
+                        </p><h2>Pacotes DBA Remoto</h2><p>Nós trabalhamos com pacotes de 15 a 90 horas mensais de acordo com o tamanho do ambiente e também das necessidades de suporte. Atuamos oferecendo os seguintes serviços no pacote mensal:</p><p>&nbsp;</p><ul><li>Suporte SQL Server</li><li>Criação de monitoramento de performance</li><li>Revisão periódica de índices e estatísticas</li><li>Revisão e otimização de procedures</li><li>Verificação de EventViewer windows e logs SQL Server</li><li>Migração de Ambientes</li><li>Mentoring Equipe</li><li>Documentação Ambiente SQL Server</li></ul>
+
+
+
+
+                    </div>
+
+
+
+                </div>
+
+
+
 
             </div>
-
-            
-
-        </div>
-
-
-
-
-    </div>
     </div>
     <!--#include virtual="/includes/footer.html"-->
 </body>
