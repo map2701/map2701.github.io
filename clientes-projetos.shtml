@@ -8,6 +8,8 @@
     <meta name="description" content="Desenvolvimento de Software com .Net, Java, PHP com  SQL Server ou Oracle" />
     <link href="default.css" rel="stylesheet" type="text/css" media="all" />
     <link href="fonts.css" rel="stylesheet" type="text/css" media="all" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <!--[if IE 6]>
     <link href="default_ie6.css" rel="stylesheet" type="text/css" />
     <![endif]-->
@@ -31,7 +33,7 @@
                                 <a href="http://www.legitimvs.com.br" title="Legitimvs" target="_blank">  <img src="images/Legitimvs.png" title="Legitimvs"  /></a>
                             </div>
                             <div  style="width:50%;display:table-cell;text-align:right"> 
-                                <a href="http://www.almeidasantos.net" title="Almeida Santos" target="_blank"> <img src="images/almeidasantos.png" title="Almeida Santos" />  </a></div>
+                                <a href="http://www.almeidasantos.net" title="Almeida Santos" target="_blank"> <img src="images/AlmeidaSantos.png" title="Almeida Santos" />  </a></div>
 
                         </div>
 
@@ -41,7 +43,7 @@
                             </a></div>
                         <div  style="width:50%;display:table-cell;text-align:right">
                             <a href="http://www.judiciale.com.br" title="Judiciale" target="_blank">
-                                <img src="images/judiciale.png" title="Judiciale" />
+                                <img src="images/Judiciale.png" title="Judiciale" />
                             </a></div>
                     </div>
                     
